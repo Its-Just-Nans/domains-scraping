@@ -12,3 +12,7 @@ This python script lets you scrape domains name price using the [OVH API](https:
 python -m pip install grequests array-cache
 python main.py
 ```
+
+## License
+
+Licensed under the MIT License - [LICENSE](LICENSE)
